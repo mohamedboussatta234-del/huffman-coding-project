@@ -1,0 +1,4 @@
+orortMAN CODING!
+This project demonstrates compression using binary trees.
+AAAAABBBBCCCDDE
+BBpB

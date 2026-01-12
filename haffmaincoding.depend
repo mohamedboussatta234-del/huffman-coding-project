@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1768119127 source:c:\users\pc\desktop\projet1datastruct\haffmaincoding\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bt.h"
+	"huffman.h"
+	"huffman.h"
+
+1768042221 source:c:\users\pc\desktop\projet1datastruct\haffmaincoding\bt.c
+	<stdio.h>
+	<stdlib.h>
+	"bt.h"
+
+1768041881 c:\users\pc\desktop\projet1datastruct\haffmaincoding\bt.h
+
+1768045028 source:c:\users\pc\desktop\projet1datastruct\haffmaincoding\huffman.c
+	<stdio.h>
+	<stdlib.h>
+	"huffman.h"
+
+1768120191 c:\users\pc\desktop\projet1datastruct\haffmaincoding\huffman.h
+

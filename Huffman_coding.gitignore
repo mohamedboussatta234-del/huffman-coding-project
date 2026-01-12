@@ -1,0 +1,32 @@
+# Compiled files
+*.exe
+*.o
+*.obj
+*.out
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Executables
+huffman_project.exe
+huffman.exe
+test.exe
+debug.exe
+
+# Temporary files
+*.tmp
+*.temp
+
+# Test files
+test.txt
+compressed.huff
+decompressed.txt
+simple_test.txt
+demo.txt
+*.huff
+*.bin
+
+# OS files
+.DS_Store
+Thumbs.db
